@@ -1,4 +1,5 @@
-# LeetCode Daily Practice Solutions (C++) ![image](https://github.com/QuantumCipherMaster/Daily-Personal-Practice/assets/128596662/9a990b0e-f0bf-4c00-b7f7-da19eaceba84)
+# LeetCode Daily Practice Solutions (C++) ![image](https://github.com/QuantumCipherMaster/Daily-Personal-Practice/assets/128596662/826eba29-e5b0-4542-90b3-59695f634e72)
+
 
 
 This repository contains my solutions to the daily practice problems from LeetCode, written in C++. The solutions are organized by date and problem number.
